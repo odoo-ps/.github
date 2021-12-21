@@ -14,7 +14,7 @@ Link to task: [#ID](https://)
 
 * [ ] The commits pass test and the branch is green
 * [ ] Unit test have been implemented / standard ones rewritten
-* [ ] The Staging only contain one dev and is ISO-Prod
+* [ ] The Staging is ISO-Prod and will contain only this dev
 
 ### Upgrade:
 
