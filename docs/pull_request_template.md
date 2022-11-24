@@ -6,7 +6,7 @@ Link to task: [#ID](https://www.odoo.com/web#model=project.task&id=)
 
 ### All Submissions:
 
-* [ ] My commit respects the [Odoo commit guideline](https://www.odoo.com/documentation/15.0/developer/misc/other/guidelines.html#git)
+* [ ] My commit respects the [Odoo coding guideline](https://www.odoo.com/documentation/15.0/developer/misc/other/guidelines.html#git)
 * [ ] My commit message respects the [commit template](https://github.com/odoo-ps/psbe-process/wiki/Commits-message-guidelines#template)
 * [ ] I have used pre-commit
 * [ ] The PR contains **only** my modification and **no other external** commit
