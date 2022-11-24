@@ -20,3 +20,7 @@ Link to task: [#ID](https://www.odoo.com/web#model=project.task&id=)
 ### Upgrade:
 
 * [ ] The data affected (*if any*) by the changes has been migrated 
+
+### Maintenance:
+
+* [ ] The versions of the modules affected by the changes have been bumped in their manifests
