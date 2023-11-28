@@ -21,6 +21,7 @@ Link to task: [#ID](https://www.odoo.com/web#model=project.task&id=)
 
 * [ ] The data affected (*if any*) by the changes has been migrated 
 
-### Maintenance:
+### Maintenance reminders:
 
-* [ ] The versions of the modules affected by the changes have been bumped in their manifests
+* Always bump the version of the manifest on the affected modules.
+* Notify the developer responsible for the initial development task (when this is relevant).
